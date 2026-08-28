@@ -1,6 +1,6 @@
 # Hello
 
-I'm Zachary, a Computer Science student at **ISEN Ouest**, based in Caen, France 🇫🇷
+I'm Zachary, a Computer Science student at **ISEN Ouest**, based in Caen, France 🇫🇷 
 
 ---
 
